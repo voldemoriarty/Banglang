@@ -1,0 +1,13 @@
+SET $0 AS 0
+
+SET $0 AS 0-11
+
+WHILE 1   != 1
+WHILE 2 !=   2
+
+
+PRINTL "will not be printed"
+WEND
+WEND
+
+PRINT "This is the first printed line"

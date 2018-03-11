@@ -1,0 +1,39 @@
+
+num 0
+stloc_n 0
+
+
+
+num 0
+num 11
+sub
+stloc_n 0
+
+
+
+label WHILEBLC1
+num 1
+num 1
+cne WEND1
+
+label WHILEBLC2
+num 2
+num 2
+cne WEND2
+
+
+
+
+
+str will not be printed;
+out_s
+nl
+jmp WHILEBLC2
+label WEND2
+jmp WHILEBLC1
+label WEND1
+
+
+
+str This is the first printed line;
+out_s

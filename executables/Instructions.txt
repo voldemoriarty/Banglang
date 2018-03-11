@@ -1,0 +1,15 @@
+For Simple Usage, open 'Bang_Interactive'
+Usage for compiler:
+===================
+
+	compiler_exe_name <input file name> <output file name>
+	e.g: bangc input.txt output.txt
+	Note: The compiler will automatically try to call the VM with the output file. It will call VM.exe. If the file is not found then it will simply display a message but the normal operation of the compiler will not be hindered.
+
+Usage for VM:
+=============
+
+	vm_exe_name <input file name>
+	e.g: compiler.exe input.txt
+	
+	The file given to the VM should contain the assembly outputted from the compiler

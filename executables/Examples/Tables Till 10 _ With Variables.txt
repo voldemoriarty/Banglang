@@ -1,0 +1,11 @@
+DIM TableOf AS NUMBER
+DIM Times AS NUMBER
+SET TableOf AS 0
+WHILE TableOf <= 10
+	SET Times AS 0
+	WHILE Times <= 10
+		PRINT TableOf*Times
+		SET Times AS Times+1
+	WEND
+	SET TableOf AS TableOf+1
+WEND

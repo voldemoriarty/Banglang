@@ -1,0 +1,11 @@
+Dim X as Number
+DIM y as number
+
+While X = 1
+	PrintL "This is Not so Good"
+wend
+
+while y < 10
+	set Y as y+1
+	printl y
+Wend
