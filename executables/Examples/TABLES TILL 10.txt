@@ -1,9 +1,0 @@
-SET $0 AS 0
-WHILE $0 <= 10
-	SET $1 AS 0
-	WHILE $1 <= 10
-		PRINT $0*$1
-		SET $1 AS $1+1
-	WEND
-	SET $0 AS $0+1
-WEND
