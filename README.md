@@ -35,24 +35,24 @@ with this text to aid the reader.
 It has been an immense pleasure and a privileged experience to work as a team on this project. We hope that Bang
 turns out to be a source of learning for you, as it has been to us delightfully.
 
--Saad
--Asad
--Saif
+- Saad
+- Asad
+- Saif
 
 ## Statement Set:
 
-// Comments, also by the keyword COM
-PRINTL 	-- Prints a line
-PRINT 	-- Prints without returning carriage.
-INPUT 	-- Takes input
-IF		-- The traditional if, works with ELSE and ENDIF
-WHILE   -- The traditional while loop
-DOWHILE	-- The traditional do-while loop
-DIM		-- Declare in memory. Works with NUMBER and STRING
-SET 	-- Assign a value to the variable.
+	// Comments, also by the keyword COM
+	PRINTL 	 Prints a line
+	PRINT 	 Prints without returning carriage.
+	INPUT 	 Takes input
+	IF	 The traditional if, works with ELSE and ENDIF
+	WHILE    The traditional while loop
+	DOWHILE	 The traditional do-while loop
+	DIM	 Declare in memory. Works with NUMBER and STRING
+	SET 	 Assign a value to the variable.
 
 ## Caution:
-Declare negative numbers with preceding zeros i.e.
-	Set x as 0-55
-instead of
-	set x as -55
+	Declare negative numbers with preceding zeros i.e.
+		Set x as 0-55
+	instead of
+		set x as -55
