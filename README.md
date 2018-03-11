@@ -6,7 +6,6 @@
 	1/6/17 	- Do while is incorporated. This is still at a Nightly Stage of Testing. Any bug-find is appreciated.
 	31/5/17 - Critical Bug handeled in processing empty lines.
 	29/5/17 - Comments included.
-	29/5/17 - Statically Compiled dll independent release issued.
 	28/5/17 - New methods 
 	24/5/17 - String Comparison included.
 	22/5/17 - First Pre-Alpha.
