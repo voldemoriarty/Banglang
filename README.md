@@ -1,7 +1,6 @@
 # BangLang OOP project Spring 2017
 
-Update Log
-==========
+## Update Log
 	1/6/17 	- Bang lang has gone case agnostic. Beware though, variables names are case agnostic too. Strings,
 		  on the other hand, remain unaffected.
 	1/6/17 	- Do while is incorporated. This is still at a Nightly Stage of Testing. Any bug-find is appreciated.
@@ -13,7 +12,6 @@ Update Log
 	22/5/17 - First Pre-Alpha.
 
 A Word from Authors:
-===================
 	Bang-Lang framework incorporates exception handling at both Compilation and VM-Runtime Stages. But as with
 all organically developed, complex softwares; Bang has its quirks and is still in a passive development stage. While
 it has been our attempt to keep it bug free, and while no known critical bugs are still in the code; it is a due
@@ -41,20 +39,19 @@ turns out to be a source of learning for you, as it has been to us delightfully.
 -Asad
 -Saif
 
-Statement Set:
-=============
+## Statement Set:
+
 // Comments, also by the keyword COM
 PRINTL 	-- Prints a line
 PRINT 	-- Prints without returning carriage.
 INPUT 	-- Takes input
-IF	-- The traditional if, works with ELSE and ENDIF
+IF		-- The traditional if, works with ELSE and ENDIF
 WHILE   -- The traditional while loop
 DOWHILE	-- The traditional do-while loop
-DIM	-- Declare in memory. Works with NUMBER and STRING
+DIM		-- Declare in memory. Works with NUMBER and STRING
 SET 	-- Assign a value to the variable.
 
-Caution:
-========
+## Caution:
 Declare negative numbers with preceding zeros i.e.
 	Set x as 0-55
 instead of
